@@ -1,0 +1,57 @@
+<html>
+
+<head>
+<meta http-equiv="content-type" content="text/html; charset=euc-kr">
+<title>제목 없음</title>
+<base target="detail">
+<style>
+<!--
+a:link { text-decoration:none; }
+a:visited { text-decoration:none; }
+a:active { text-decoration:none; }
+a:hover { text-decoration:underline; }
+-->
+</style>
+</head>
+
+<body bgcolor="white" text="black" link="blue" vlink="purple" alink="red">
+<table align="center" cellspacing="0" style="line-height:100%; margin-top:0; margin-bottom:0;" border="1" bordercolor="#999999" bordercolordark="white" bordercolorlight="#999999" width="221">
+    <tr>
+        <td width="215">
+            <p style="line-height:100%; margin-top:0; margin-bottom:0;"><font face="돋움체" size="2" color="#999900"><img src="../image/bio_list.jpg" width="200" height="50" border="0"></font></p>
+        </td>
+    </tr>
+    <tr>
+        <td width="215" height="475" valign="top">
+            <p style="line-height:100%; margin-top:0; margin-right:2px; margin-bottom:0; margin-left:2px;" align="justify"><a href="../data/eunhang.htm" target="detail"><font face="돋움체" size="2" color="#999900">은행나무</font></a></p>
+            <p style="line-height:100%; margin-top:0; margin-right:2px; margin-bottom:0; margin-left:2px;" align="justify"><a href="../data/heoyangmok.htm" target="detail"><font face="돋움체" size="2" color="#999900">회양목</font></a></p>
+            <p style="line-height:100%; margin-top:0; margin-right:2px; margin-bottom:0; margin-left:2px;" align="justify"><a href="../data/hangnamu.htm" target="detail"><font face="돋움체" size="2" color="#999900">향나무</font></a></p>
+            <p style="line-height:100%; margin-top:0; margin-right:2px; margin-bottom:0; margin-left:2px;" align="justify"><a href="../data/nunhangnamu.htm" target="detail"><font face="돋움체" size="2" color="#999900">눈향나무</font></a></p>
+            <p style="line-height:100%; margin-top:0; margin-right:2px; margin-bottom:0; margin-left:2px;" align="justify"><a href="../data/seddgi.htm" target="detail"><font face="돋움체" size="2" color="#999900">쇠뜨기</font></a></p>
+            <p style="line-height:100%; margin-top:0; margin-right:2px; margin-bottom:0; margin-left:2px;" align="justify"><a href="../data/dolnamul.htm" target="detail"><font face="돋움체" size="2" color="#999900">돌나물</font></a></p>
+            <p style="line-height:100%; margin-top:0; margin-right:2px; margin-bottom:0; margin-left:2px;" align="justify"><a href="../data/jandi.htm" target="detail"><font face="돋움체" size="2" color="#999900">잔디</font></a></p>
+            <p style="line-height:100%; margin-top:0; margin-right:2px; margin-bottom:0; margin-left:2px;" align="justify"><a href="../data/poribangi.htm" target="detail"><font face="돋움체" size="2" color="#999900">뽀리뱅이</font></a></p>
+            <p style="line-height:100%; margin-top:0; margin-right:2px; margin-bottom:0; margin-left:2px;" align="justify"><a href="../data/mindle.htm" target="detail"><font face="돋움체" size="2" color="#999900">서양민들레</font></a></p>
+            <p style="line-height:100%; margin-top:0; margin-right:2px; margin-bottom:0; margin-left:2px;" align="justify"><a href="../data/mangcho.htm" target="detail"><font face="돋움체" size="2" color="#999900">망초</font></a></p>
+            <p style="line-height:100%; margin-top:0; margin-right:2px; margin-bottom:0; margin-left:2px;" align="justify"><a href="../data/gaemangcho.htm" target="detail"><font face="돋움체" size="2" color="#999900">개망초</font></a></p>
+            <p style="line-height:100%; margin-top:0; margin-right:2px; margin-bottom:0; margin-left:2px;" align="justify"><a href="../data/jugorimangcho.htm" target="detail"><font face="돋움체" size="2" color="#999900">쥐꼬리망초</font></a></p>
+            <p style="line-height:100%; margin-top:0; margin-right:2px; margin-bottom:0; margin-left:2px;" align="justify"><a href="../data/gangibob.htm" target="detail"><font face="돋움체" size="2" color="#999900">괭이밥</font></a></p>
+            <p style="line-height:100%; margin-top:0; margin-right:2px; margin-bottom:0; margin-left:2px;" align="justify"><a href="../data/gogmari.htm" target="detail"><font face="돋움체" size="2" color="#999900">꽃마리</font></a></p>
+            <p style="line-height:100%; margin-top:0; margin-right:2px; margin-bottom:0; margin-left:2px;" align="justify"><a href="../data/gogdaji.htm" target="detail"><font face="돋움체" size="2" color="#999900">꽃다지</font></a></p>
+            <p style="line-height:100%; margin-top:0; margin-right:2px; margin-bottom:0; margin-left:2px;" align="justify"><a href="../data/naengi.htm" target="detail"><font face="돋움체" size="2" color="#999900">냉이</font></a></p>
+            <p style="line-height:100%; margin-top:0; margin-right:2px; margin-bottom:0; margin-left:2px;" align="justify"><a href="../data/dadanaengi.htm" target="detail"><font face="돋움체" size="2" color="#999900">다닥냉이</font></a></p>
+            <p style="line-height:100%; margin-top:0; margin-right:2px; margin-bottom:0; margin-left:2px;" align="justify"><a href="../data/barangi.htm" target="detail"><font face="돋움체" size="2" color="#999900">바랭이</font></a></p>
+            <p style="line-height:100%; margin-top:0; margin-right:2px; margin-bottom:0; margin-left:2px;" align="justify"><a href="../data/sunsmbagi.htm" target="detail"><font face="돋움체" size="2" color="#999900">선씀바귀</font></a></p>
+            <p style="line-height:100%; margin-top:0; margin-right:2px; margin-bottom:0; margin-left:2px;" align="justify"><font face="돋움체" size="2" color="#999900">방동사니</font></p>
+            <p style="line-height:100%; margin-top:0; margin-right:2px; margin-bottom:0; margin-left:2px;" align="justify"><a href="../data/7wol/jilengii.htm" target="detail"><font face="돋움체" size="2" color="#999900">지렁이</font></a></p>
+            <p style="line-height:100%; margin-top:0; margin-right:2px; margin-bottom:0; margin-left:2px;" align="justify"><a href="../data/7wol/ladybug.htm" target="detail"><font face="돋움체" size="2" color="#999900">무당벌레</font></a></p>
+            <p style="line-height:100%; margin-top:0; margin-right:2px; margin-bottom:0; margin-left:2px;" align="justify"><a href="../data/7wol/mudang.htm" target="detail"><font face="돋움체" size="2" color="#999900">무당거미</font></a></p>
+            <p style="line-height:100%; margin-top:0; margin-right:2px; margin-bottom:0; margin-left:2px;" align="justify"><a href="../data/7wol/ginhorang.htm" target="detail"><font face="돋움체" size="2" color="#999900">긴호랑거미</font></a></p>
+            <p style="line-height:100%; margin-top:0; margin-right:2px; margin-bottom:0; margin-left:2px;" align="justify"><a href="../data/7wol/baechuhinabi.htm" target="detail"><font face="돋움체" size="2" color="#999900">배추흰나비</font></a></p>
+            <p style="line-height:100%; margin-top:0; margin-right:2px; margin-bottom:0; margin-left:2px;" align="justify"><a href="../data/7wol/bujen.htm" target="detail"><font face="돋움체" size="2" color="#999900">부전나비</font></a></p>
+        </td>
+    </tr>
+</table>
+</body>
+
+</html>
